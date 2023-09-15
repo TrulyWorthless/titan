@@ -1,0 +1,2 @@
+debug = true
+rpc_poll_interval = 10
